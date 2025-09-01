@@ -1,6 +1,6 @@
 JITWatch
 ========
-
+Log analyser and visualiser for the HotSpot JIT compiler.
 Log analyser and visualiser for the HotSpot JIT compiler.
 
 * Video introduction to JITWatch [video](https://www.youtube.com/watch?v=p7ipmAa9_9E)
