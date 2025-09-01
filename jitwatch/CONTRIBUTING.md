@@ -6,4 +6,3 @@ Before submitting a big PR or major refactoring please open an issue and let's d
 
 Many thanks!
 
-Chris Newland (@chriswhocodes)
